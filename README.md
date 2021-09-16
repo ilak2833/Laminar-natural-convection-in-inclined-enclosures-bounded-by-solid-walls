@@ -1,0 +1,1 @@
+# Laminar-natural-convection-in-inclined-enclosures-bounded-by-solid-walls
